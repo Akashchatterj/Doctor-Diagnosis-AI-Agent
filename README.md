@@ -679,7 +679,7 @@ copies of the Software...
 ### 👨‍💻 Developer
 
 **Akash Chatterjee**  
-M.Tech Student (AR/VR), IIT Jodhpur  
+M.Tech Student, IIT Jodhpur  
 Junior Research Fellow, DRDO Project
 
 [![Email](https://img.shields.io/badge/Email-chatterjeeakash887%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatterjeeakash887@gmail.com)
