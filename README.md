@@ -607,15 +607,7 @@ This platform is developed as part of **DRDO-funded research** at **IIT Jodhpur*
 | 2025 | CVIP | *Traffic Forecasting using Vehicle Situation-aware Loss* |
 | 2021 | COMSYS | *Breast Cancer Detection using MobileNet with PSO* |
 
-### Research Team
 
-**Principal Investigator**: [Faculty Name]  
-**Lead Developer**: Akash Chatterjee (M.Tech AR/VR, IIT Jodhpur)  
-**Funding Agency**: Defence Research and Development Organisation (DRDO)
-
-### Citation
-
-If you use this work in your research, please cite:
 
 ```bibtex
 @software{chatterjee2025medicalimaging,
@@ -774,7 +766,7 @@ If you find this project useful, please give it a star!
 
 ---
 
-**Built with ❤️ at IIT Jodhpur • Funded by DRDO**
+**Built with ❤️ at IIT Jodhpur **
 
 Made by [Akash Chatterjee](https://github.com/YOUR_USERNAME)
 
