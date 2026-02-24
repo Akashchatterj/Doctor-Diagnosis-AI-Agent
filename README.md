@@ -54,7 +54,6 @@ Enable healthcare professionals to leverage AI for:
 <tr>
 <td align="center" width="33%">
 <img src="assets/dicom_logo.png" width="80">
-<b>DICOM</b><br/>
 .dcm files
 </td>
 <td align="center" width="33%">
