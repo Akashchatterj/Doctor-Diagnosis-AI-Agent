@@ -53,7 +53,7 @@ Enable healthcare professionals to leverage AI for:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://github.com/pydicom/pydicom/blob/main/doc/assets/img/pydicom_logo.svg?raw=true" width="80"/>
+<img src="assets/dicom_logo.png" width="80">
 <b>DICOM</b><br/>
 .dcm files
 </td>
