@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Medical Imaging Banner](assets/Banner.png)
+<img src="assets/Banner.png" width="100%" height="300">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg?logo=streamlit)](https://streamlit.io/)
