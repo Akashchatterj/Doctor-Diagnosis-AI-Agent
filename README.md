@@ -581,46 +581,6 @@ git push origin feature/amazing-feature
 # 6. Open Pull Request on GitHub
 ```
 
-### Code Standards
-
-- Follow [PEP 8](https://pep8.org/) style guide
-- Add docstrings to functions
-- Write unit tests for new features
-- Update README for significant changes
-
----
-
-## 📚 Research & Publications
-
-### About This Project
-
-This platform is developed as part of **DRDO-funded research** at **IIT Jodhpur** focused on:
-- AI-assisted medical diagnostics
-- Explainable AI in healthcare
-- Multi-agent collaboration systems
-- Human-AI interaction in critical applications
-
-### Related Publications
-
-| Year | Conference | Title |
-|------|-----------|-------|
-| 2025 | CVIP | *Traffic Forecasting using Vehicle Situation-aware Loss* |
-| 2021 | COMSYS | *Breast Cancer Detection using MobileNet with PSO* |
-
-
-
-```bibtex
-@software{chatterjee2025medicalimaging,
-  author = {Chatterjee, Akash},
-  title = {AI-Powered Medical Image Analysis Platform},
-  year = {2025},
-  publisher = {GitHub},
-  institution = {IIT Jodhpur},
-  url = {https://github.com/YOUR_USERNAME/medical-imaging-diagnosis}
-}
-```
-
----
 
 ## 📄 License
 
