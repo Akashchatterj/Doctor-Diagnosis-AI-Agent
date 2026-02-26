@@ -8,7 +8,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg?logo=streamlit)](https://streamlit.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991.svg?logo=openai)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![DRDO](https://img.shields.io/badge/Funded%20by-DRDO-orange.svg)](https://www.drdo.gov.in/)
 [![IIT Jodhpur](https://img.shields.io/badge/IIT-Jodhpur-yellow.svg)](https://iitj.ac.in/)
 
 **An AI-powered platform for collaborative medical image analysis with explainable AI, knowledge integration, and real-time collaboration.**
