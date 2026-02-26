@@ -642,12 +642,6 @@ copies of the Software...
 
 ## 🙏 Acknowledgments
 
-### Funding & Support
-
-- **DRDO** (Defence Research and Development Organisation) - Research funding
-- **IIT Jodhpur** - Infrastructure and academic support
-- **AR/VR Department** - Technical guidance
-
 ### Technology Partners
 
 - **OpenAI** - GPT-4o Vision API
@@ -681,7 +675,7 @@ Junior Research Fellow, DRDO Project
 
 **Indian Institute of Technology Jodhpur**  
 Department of Computer Science & Engineering  
-AR/VR Research Group
+
 
 </div>
 
