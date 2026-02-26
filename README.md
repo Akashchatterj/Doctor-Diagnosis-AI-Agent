@@ -179,7 +179,7 @@ graph LR
 
 ### High-Level Architecture
 
-![System Architecture](https://via.placeholder.com/1000x600/ECEFF1/37474F?text=Paste+Your+Architecture+Diagram+Here)
+![System Architecture](assets/System_architecture.png)
 
 **Replace with your uploaded diagrams:**
 - System Architecture (Image 1)
