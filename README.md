@@ -157,19 +157,19 @@ graph LR
 <summary><b>📸 Click to view screenshots</b></summary>
 
 #### Main Interface
-![Main Interface](assets/Screenshot 2026-02-26 153036.png)
+![Main Interface](assets/screenshot_main.png)
 
 #### Analysis Results
-![Analysis](assets/Screenshot 2026-02-26 153250.png)
+![Analysis](assets/screenshot_analysis.png)
 
 #### XAI Heatmaps
-![Heatmaps](assets/Screenshot 2026-02-26 153325.png)
+![Heatmaps](assets/screenshot_heatmaps.png)
 
 #### Collaboration Chat
-![Chat](assets/Screenshot 2026-02-26 153414.png)
+![Chat](assets/screenshot_chat.png)
 
 #### Q&A System
-![QA](assets/Screenshot 2026-02-26 153451.png)
+![QA](assets/screenshot_qa.png)
 
 </details>
 
