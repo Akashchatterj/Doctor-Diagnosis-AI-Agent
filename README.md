@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Medical Imaging Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=Medical+Image+Analysis+Platform)
+![Medical Imaging Banner](assets/Banner.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg?logo=streamlit)](https://streamlit.io/)
