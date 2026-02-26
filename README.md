@@ -391,7 +391,7 @@ graph TD
 </td>
 <td width="50%">
 
-![Upload Example](https://via.placeholder.com/400x250/E8F5E9?text=Upload+Interface)
+![Upload Example](assets/xray_report.jpg)
 
 </td>
 </tr>
